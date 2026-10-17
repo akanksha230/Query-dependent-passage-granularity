@@ -1,0 +1,16 @@
+atype,n,system,coverage
+extractive,787,fixed_para,0.6074376497232734
+extractive,787,mog_style_query_only,0.6074376497232734
+extractive,787,query+ret_all,0.6029696819406506
+extractive,787,query+ret_p256,0.6062359146365122
+extractive,787,oracle,0.7758002000521453
+free_form,327,fixed_para,0.5732371397915408
+free_form,327,mog_style_query_only,0.571659801951528
+free_form,327,query+ret_all,0.5671815769644092
+free_form,327,query+ret_p256,0.573352791687002
+free_form,327,oracle,0.74470507357237
+yes_no,195,fixed_para,0.5857161488936373
+yes_no,195,mog_style_query_only,0.5857161488936373
+yes_no,195,query+ret_all,0.5906929947538392
+yes_no,195,query+ret_p256,0.5851048114583643
+yes_no,195,oracle,0.7667297347530603

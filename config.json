@@ -1,0 +1,71 @@
+{
+ "256": {
+  "best_fixed": "para",
+  "mog_style_query_only": {
+   "grid": 5,
+   "dev_cov": 0.39456806918641796
+  },
+  "query+ret_all": {
+   "grid": 4,
+   "dev_cov": 0.3938483949169091
+  },
+  "query+ret_p256": {
+   "grid": 2,
+   "dev_cov": 0.3955872235177701
+  },
+  "ret_only": {
+   "grid": 7,
+   "dev_cov": 0.3909753725125076
+  },
+  "query+ret_no_agreement": {
+   "grid": 6,
+   "dev_cov": 0.38971528133572547
+  }
+ },
+ "512": {
+  "best_fixed": "para",
+  "mog_style_query_only": {
+   "grid": 6,
+   "dev_cov": 0.5596964597726052
+  },
+  "query+ret_all": {
+   "grid": 5,
+   "dev_cov": 0.5623959019801722
+  },
+  "query+ret_p256": {
+   "grid": 2,
+   "dev_cov": 0.5603538639550351
+  },
+  "ret_only": {
+   "grid": 5,
+   "dev_cov": 0.5621178303465546
+  },
+  "query+ret_no_agreement": {
+   "grid": 6,
+   "dev_cov": 0.5619076790613001
+  }
+ },
+ "1024": {
+  "best_fixed": "para",
+  "mog_style_query_only": {
+   "grid": 2,
+   "dev_cov": 0.720822296799187
+  },
+  "query+ret_all": {
+   "grid": 4,
+   "dev_cov": 0.7261912991473348
+  },
+  "query+ret_p256": {
+   "grid": 7,
+   "dev_cov": 0.7207026825103814
+  },
+  "ret_only": {
+   "grid": 4,
+   "dev_cov": 0.7211233943536249
+  },
+  "query+ret_no_agreement": {
+   "grid": 4,
+   "dev_cov": 0.7220725194066306
+  }
+ }
+}
