@@ -2,8 +2,6 @@
 
 This repository contains the code, frozen configuration, experiment outputs, and reports for the project **“Query-Dependent Passage Granularity: Can a Router Choose the Right Chunk Size per Query?”**
 
-GitHub repository: https://github.com/akanksha230/Query-dependent-passage-granularity
-
 ## Project overview
 
 The project studies whether a retrieval system can select an appropriate passage granularity for each query. It evaluates six granularities:
