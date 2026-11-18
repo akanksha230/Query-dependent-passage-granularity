@@ -34,18 +34,11 @@ The experiments use BM25 retrieval over the paper associated with each QASPER qu
 │   ├── experiment2_results.json
 │   ├── experiment3_results.json
 │   └── experiment4_results.json
-├── figures/
-│   └── fig_main.png
-├── docs/
-│   ├── Final_Report.pdf
-│   ├── Final_Paper.pdf
-│   └── PILOT_REPORT.md
 ├── config.json
 ├── cache_train.pkl
 ├── cache_dev.pkl
 ├── cache_test.pkl
 ├── requirements.txt
-├── AI_USAGE.md
 └── README.md
 ```
 
