@@ -1,0 +1,65 @@
+{
+  "256": {
+    "best_grid": 5,
+    "coverage": 0.39050005911144253,
+    "hit_recall": 0.43961593279027483,
+    "best_fixed": 0.3938661059106712,
+    "improvement": -0.0033660467992286947,
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "max_iter": 200,
+      "centered": true
+    },
+    "choice_counts": [
+      3,
+      29,
+      5,
+      4,
+      675,
+      172
+    ]
+  },
+  "512": {
+    "best_grid": 4,
+    "coverage": 0.5613711480975888,
+    "hit_recall": 0.5887572006815427,
+    "best_fixed": 0.5585703336464792,
+    "improvement": 0.002800814451109579,
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "max_iter": 200,
+      "centered": true
+    },
+    "choice_counts": [
+      0,
+      8,
+      0,
+      0,
+      867,
+      13
+    ]
+  },
+  "1024": {
+    "best_grid": 5,
+    "coverage": 0.7269826957206615,
+    "hit_recall": 0.7408942584929427,
+    "best_fixed": 0.7187281666322404,
+    "improvement": 0.00825452908842117,
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "max_iter": 200,
+      "centered": true
+    },
+    "choice_counts": [
+      4,
+      10,
+      3,
+      75,
+      747,
+      49
+    ]
+  }
+}

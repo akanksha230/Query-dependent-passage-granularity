@@ -1,0 +1,278 @@
+{
+  "256": [
+    {
+      "qid": "b584739622d0c53830e60430b13fd3ae6ff43669",
+      "pid": "1911.10742",
+      "qtext": "What are the evaluation metrics and criteria used to evaluate the model performance?",
+      "oracle_cov": 0.8590604026845637,
+      "routed_cov": 0.2586750788643533,
+      "chosen_g": "para",
+      "best_g": "p256"
+    },
+    {
+      "qid": "57ee20f494d8ce3fae46028c3f3551d180dba3e0",
+      "pid": "1611.06322",
+      "qtext": "What languages do they evaluate their methods on?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "section",
+      "best_g": "p256"
+    },
+    {
+      "qid": "bc8526d4805e2554adb2e9c01736d3f3a3b19895",
+      "pid": "1604.02038",
+      "qtext": "What baselines did they compare with?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.08333333333333333,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "6e040e80f2da69d50386a90a38ed6d2fa4f77bbd",
+      "pid": "1911.04474",
+      "qtext": "Which NER dataset do they use?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.5637583892617449,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "fe52b093735bb456d7e699aa9a2b806d2b498ba0",
+      "pid": "1905.00840",
+      "qtext": "What are the state-of-the-art systems?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.5358851674641149,
+      "chosen_g": "para",
+      "best_g": "section"
+    },
+    {
+      "qid": "371433bd3fb5042bacec4dfad3cfff66147c14f0",
+      "pid": "1909.04387",
+      "qtext": "How do data-driven models usually respond to abuse?",
+      "oracle_cov": 0.5737051792828686,
+      "routed_cov": 0.010752688172043012,
+      "chosen_g": "para",
+      "best_g": "p512"
+    },
+    {
+      "qid": "c19e9fd2f1c969e023fb99b74e78eb1f3db8e162",
+      "pid": "2003.13016",
+      "qtext": "Was the automatic annotation evaluated?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.552,
+      "chosen_g": "para",
+      "best_g": "p256"
+    },
+    {
+      "qid": "42a4ab4607a9eec42c427a817b7e898230d26444",
+      "pid": "1909.09070",
+      "qtext": "Where do their figure and captions come from?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.13636363636363635,
+      "chosen_g": "section",
+      "best_g": "sent"
+    },
+    {
+      "qid": "ed44f7e698d6124cb86791841d02fc6f8b4d862a",
+      "pid": "1908.11049",
+      "qtext": "What is their definition of hate speech?",
+      "oracle_cov": 0.4117647058823529,
+      "routed_cov": 0.0,
+      "chosen_g": "section",
+      "best_g": "sent"
+    },
+    {
+      "qid": "d9e7633004ed1bc1ee45be58409bcc1fa6db59b2",
+      "pid": "1908.11049",
+      "qtext": "What languages does the new dataset contain?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "section",
+      "best_g": "p512"
+    }
+  ],
+  "512": [
+    {
+      "qid": "397a1e851aab41c455c2b284f5e4947500d797f0",
+      "pid": "1911.10742",
+      "qtext": "How big is the ANTISCAM dataset? ",
+      "oracle_cov": 0.6,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "b584739622d0c53830e60430b13fd3ae6ff43669",
+      "pid": "1911.10742",
+      "qtext": "What are the evaluation metrics and criteria used to evaluate the model performance?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.37066246056782337,
+      "chosen_g": "para",
+      "best_g": "p256"
+    },
+    {
+      "qid": "2849c2944c47cf1de62b539c5d3c396a3e8d283a",
+      "pid": "1904.09131",
+      "qtext": "What is the accuracy of this model compared to sota?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "sent"
+    },
+    {
+      "qid": "8cbe3fa4ec0f66071e3d6b829b09b6395b631c44",
+      "pid": "1611.06322",
+      "qtext": "Are their methods fully supervised?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "sent"
+    },
+    {
+      "qid": "57ee20f494d8ce3fae46028c3f3551d180dba3e0",
+      "pid": "1611.06322",
+      "qtext": "What languages do they evaluate their methods on?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "bc8526d4805e2554adb2e9c01736d3f3a3b19895",
+      "pid": "1604.02038",
+      "qtext": "What baselines did they compare with?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.08333333333333333,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "fe52b093735bb456d7e699aa9a2b806d2b498ba0",
+      "pid": "1905.00840",
+      "qtext": "What are the state-of-the-art systems?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.5358851674641149,
+      "chosen_g": "para",
+      "best_g": "section"
+    },
+    {
+      "qid": "8b4bd0a962241ea548752212ebac145e2ced7452",
+      "pid": "1909.00091",
+      "qtext": "How do they discover coherent word clusters?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.413265306122449,
+      "chosen_g": "para",
+      "best_g": "p512"
+    },
+    {
+      "qid": "371433bd3fb5042bacec4dfad3cfff66147c14f0",
+      "pid": "1909.04387",
+      "qtext": "How do data-driven models usually respond to abuse?",
+      "oracle_cov": 0.8207171314741036,
+      "routed_cov": 0.010752688172043012,
+      "chosen_g": "para",
+      "best_g": "p512"
+    },
+    {
+      "qid": "c19e9fd2f1c969e023fb99b74e78eb1f3db8e162",
+      "pid": "2003.13016",
+      "qtext": "Was the automatic annotation evaluated?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.552,
+      "chosen_g": "para",
+      "best_g": "p256"
+    }
+  ],
+  "1024": [
+    {
+      "qid": "397a1e851aab41c455c2b284f5e4947500d797f0",
+      "pid": "1911.10742",
+      "qtext": "How big is the ANTISCAM dataset? ",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "p512"
+    },
+    {
+      "qid": "f7662b11e87c1e051e13799413f3db459ac3e19c",
+      "pid": "1911.10742",
+      "qtext": "What are the baselines outperformed by this work?",
+      "oracle_cov": 0.7111111111111111,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "sent"
+    },
+    {
+      "qid": "b584739622d0c53830e60430b13fd3ae6ff43669",
+      "pid": "1911.10742",
+      "qtext": "What are the evaluation metrics and criteria used to evaluate the model performance?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.5946372239747634,
+      "chosen_g": "para",
+      "best_g": "p256"
+    },
+    {
+      "qid": "57ee20f494d8ce3fae46028c3f3551d180dba3e0",
+      "pid": "1611.06322",
+      "qtext": "What languages do they evaluate their methods on?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "8b4bd0a962241ea548752212ebac145e2ced7452",
+      "pid": "1909.00091",
+      "qtext": "How do they discover coherent word clusters?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.413265306122449,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "c19e9fd2f1c969e023fb99b74e78eb1f3db8e162",
+      "pid": "2003.13016",
+      "qtext": "Was the automatic annotation evaluated?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.552,
+      "chosen_g": "para",
+      "best_g": "p256"
+    },
+    {
+      "qid": "b8a3ab219be6c1e6893fe80e1fbf14f0c0c3c97c",
+      "pid": "1909.09070",
+      "qtext": "What datasets are used in this paper?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.20434782608695654,
+      "chosen_g": "para",
+      "best_g": "section"
+    },
+    {
+      "qid": "0ac6fbd81e2dd95b800283dc7e59ce969d45fc02",
+      "pid": "1708.05521",
+      "qtext": "what dataset was used?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "p128"
+    },
+    {
+      "qid": "9ef0d2365bde0d18054511fbb53cec5fa2cda5ee",
+      "pid": "1908.11049",
+      "qtext": "How big is their dataset?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.0,
+      "chosen_g": "para",
+      "best_g": "sent"
+    },
+    {
+      "qid": "d36a6447bfe58204e0d29f9213d84be04d875624",
+      "pid": "1906.08871",
+      "qtext": "what dataset was used?",
+      "oracle_cov": 1.0,
+      "routed_cov": 0.40948275862068967,
+      "chosen_g": "para",
+      "best_g": "p512"
+    }
+  ]
+}

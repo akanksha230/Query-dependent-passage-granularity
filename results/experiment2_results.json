@@ -1,0 +1,53 @@
+[
+  {
+    "budget": 256,
+    "best_fixed": "para",
+    "best_fixed_coverage": 0.3938661059106712,
+    "query_only_grid": 5,
+    "query_only_coverage": 0.3954567248535685,
+    "query_only_hit_recall": 0.44172039114473327,
+    "improvement_vs_fixed": 0.0015906189428972484,
+    "choice_counts": [
+      0,
+      11,
+      0,
+      0,
+      825,
+      52
+    ]
+  },
+  {
+    "budget": 512,
+    "best_fixed": "para",
+    "best_fixed_coverage": 0.5585703336464792,
+    "query_only_grid": 6,
+    "query_only_coverage": 0.5587110994122448,
+    "query_only_hit_recall": 0.5863842920586342,
+    "improvement_vs_fixed": 0.00014076576576560473,
+    "choice_counts": [
+      0,
+      2,
+      0,
+      0,
+      886,
+      0
+    ]
+  },
+  {
+    "budget": 1024,
+    "best_fixed": "para",
+    "best_fixed_coverage": 0.7187281666322404,
+    "query_only_grid": 4,
+    "query_only_coverage": 0.7187281666322406,
+    "query_only_hit_recall": 0.7245734734221576,
+    "improvement_vs_fixed": 2.220446049250313e-16,
+    "choice_counts": [
+      0,
+      0,
+      0,
+      0,
+      888,
+      0
+    ]
+  }
+]
