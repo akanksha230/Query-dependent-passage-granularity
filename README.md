@@ -22,10 +22,10 @@ The experiments use BM25 retrieval over the paper associated with each QASPER qu
 ├── src/
 │   ├── build.py
 │   ├── route.py
-│   ├── exp1.py
-│   ├── exp2.py
-│   ├── exp3.py
-│   └── exp4.py
+│   ├── experiment1.py
+│   ├── experiment2.py
+│   ├── experiment3.py
+│   └── experiment4.py
 ├── results/
 │   ├── results_test.csv
 │   ├── results_slices_B512.csv
@@ -35,9 +35,6 @@ The experiments use BM25 retrieval over the paper associated with each QASPER qu
 │   ├── experiment3_results.json
 │   └── experiment4_results.json
 ├── config.json
-├── cache_train.pkl
-├── cache_dev.pkl
-├── cache_test.pkl
 ├── requirements.txt
 └── README.md
 ```
@@ -62,15 +59,15 @@ Run commands from the project root.
 Run the fixed-granularity evaluation:
 
 ```bash
-python src/exp1.py
+python src/experiment1.py
 ```
 
 Run the additional router experiments:
 
 ```bash
-python src/exp2.py
-python src/exp3.py
-python src/exp4.py
+python src/experiment2.py
+python src/experiment3.py
+python src/experiment4.py
 ```
 
 Run the frozen main evaluation:
